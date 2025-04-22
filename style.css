@@ -518,8 +518,8 @@ body {
 }
 .letter__border .letter .content__letter .left{
     position: relative;
-    width: 50%;
-    height: 115%;
+    width: 45%;
+    height: 112%;
     padding: 1.7rem;
     border-right: 3px solid var(--color-border);
 }
